@@ -7,8 +7,7 @@
 - What an HOC is and how to use it
 - How to optimize performance and control which components to rend
 
-Task lists
-
+###Task lists
 0. Commence with class components
 1. Lifecycles
 2. Handling Events
